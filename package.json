@@ -1,0 +1,15 @@
+{
+  "name": "Boostrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "purgecss --css css/custom.css --content index.html --output css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.0.0"
+  }
+}
